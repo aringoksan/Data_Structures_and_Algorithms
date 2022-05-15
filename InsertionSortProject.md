@@ -8,9 +8,9 @@
 	Yeni liste şu şekildedir. [2,16,22,27,18,6]
 	Bu işlem tüm liste sıralı olana kadar devam eder ve sıralı liste elde edilir. [2,6,16,18,22,27]
 2. Big-O gösterimini yazınız.
-	average case:o(n^2)
-	best case:   o(n)
-	worst case:  o(n^2)
+	average case: O(n^2)
+	best case:    O(n)
+	worst case:   O(n^2)
 3. Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 4. 18 ortada bulunduğu için average case kapsamındadır.
 
